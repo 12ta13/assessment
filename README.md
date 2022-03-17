@@ -1,5 +1,4 @@
-# assessment
-あなたのいいところ診断ゲーム
+
 'use strict';
 const userNameInput = document.getElementById('user-name');
 const assessmentButton = document.getElementById('assessment');
